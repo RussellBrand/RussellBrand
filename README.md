@@ -1,6 +1,8 @@
-## Hi there 👋
+# Everything is work in progress
+## Always
+## Forever
 
-Working pin progress
+most all, this.
 
 <!--
 **RussellBrand/RussellBrand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
